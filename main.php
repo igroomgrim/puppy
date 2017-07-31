@@ -10,4 +10,6 @@
 	error_log("developer");
 
 	error_log("dev line 2");
+
+	error_log("manager");
 ?>
